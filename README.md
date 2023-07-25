@@ -1,4 +1,4 @@
 # DevOps and DevSecOps
 
-Repo about my DevOps journey
+Repo about DevOps And DevSecOps
 
